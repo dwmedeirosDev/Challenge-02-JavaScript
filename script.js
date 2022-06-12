@@ -47,12 +47,12 @@
 
 // Exercício bônus 2
 
-let nomeCompleto = "Fernanda Flores"
-let separadorNome = nomeCompleto.split (" ")
-let contadorletrasNome = separadorNome[0].split("")
-let contadorLetrasSobrenome = separadorNome[1].length
-if (contadorLetrasSobrenome >= 6 || contadorletrasNome[0] == "E") {
-    console.log("Seu sobrenome têm mais de 6 letras ou começa com a letra E")
-}else{
-    console.log("Seu sobrenome não têm mais de 6 letras ou começa com a letra E")
-}
+// let nomeCompleto = "Fernanda Flores"
+// let separadorNome = nomeCompleto.split (" ")
+// let contadorletrasNome = separadorNome[0].split("")
+// let contadorLetrasSobrenome = separadorNome[1].length
+// if (contadorLetrasSobrenome >= 6 || contadorletrasNome[0] == "E") {
+//     console.log("Seu sobrenome têm mais de 6 letras ou começa com a letra E")
+// }else{
+//     console.log("Seu sobrenome não têm mais de 6 letras ou começa com a letra E")
+// }
