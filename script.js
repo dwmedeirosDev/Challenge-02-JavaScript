@@ -36,7 +36,7 @@
 
 // let nome = "David"
 // let separaNome = nome.split("")
-// console.log(separaNome)
+//     console.log(separaNome)
 // if (separaNome[0] == "R"){
 //     console.log("Esse nome começa com a letra R")
 // }else{
@@ -55,4 +55,13 @@
 //     console.log("Seu sobrenome têm mais de 6 letras ou começa com a letra E")
 // }else{
 //     console.log("Seu sobrenome não têm mais de 6 letras ou começa com a letra E")
+// }
+
+// OU
+
+// let sobrenome = "Fernandes";
+// if( (sobrenome.length >= 6) || (nome[0] === "E") ){
+//     console.log("Condição Verdadeira");
+// }else{
+//     console.log("Condição Falsa");
 // }
