@@ -59,6 +59,7 @@
 
 // OU
 
+// let nome = "Guilherme"
 // let sobrenome = "Fernandes";
 // if( (sobrenome.length >= 6) || (nome[0] === "E") ){
 //     console.log("Condição Verdadeira");
